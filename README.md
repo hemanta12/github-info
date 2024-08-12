@@ -23,4 +23,4 @@ Welcome to my GitHub profile! I have a strong passion for Full-Stack Development
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
 - **[LinkedIn](https://www.linkedin.com/in/hemanta-thapa-531534273/)**
-- **[Email](mailto:contact.thapahemanta@gmail.com)**
+- **[Email]: contact.thapahemanta@gmail.com**
